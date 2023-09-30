@@ -45,7 +45,8 @@ dependencies = [
     "psutil",
     "protobuf",
     "nest-asyncio",
-    "litellm"
+    "litellm",
+    "colorama"
 ]
 
 dynamic = ["version"]
